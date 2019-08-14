@@ -1,3 +1,9 @@
+jgirci的卡夫卡的界面
+
+
+
+
+
 RP/0/RSP0/CPU0:2_c-leaf-1#  show interfaces
 Thu Sep  7 15:17:18.514 UTC
 
